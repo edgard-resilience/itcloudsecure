@@ -1,0 +1,18 @@
+# --------------------------
+# English language
+# --------------------------
+[en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+
+# --------------------------
+# Spanish language
+# --------------------------
+[es]
+languageName = "Español"
+languageCode = "es-es"
+contentDir = "content/spanish"
+weight = 2
+
